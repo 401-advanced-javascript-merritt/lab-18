@@ -46,4 +46,4 @@
 * `nodemon server.js`
 
 #### UML
-![UML](./lab18.jpg)
+![UML](./lab18uml.jpg)
