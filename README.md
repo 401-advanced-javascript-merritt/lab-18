@@ -5,7 +5,9 @@
 ### Chris Merritt
 ### Links and Resources
 
-* [PR]([![Build Status](https://www.travis-ci.com/401-advanced-javascript-merritt/lab-18.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-merritt/lab-18))
+* [PR](https://github.com/401-advanced-javascript-merritt/lab-18/pull/1)
+
+[![Build Status](https://www.travis-ci.com/401-advanced-javascript-merritt/lab-18.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-merritt/lab-18)
 
 #### Documentation
 
